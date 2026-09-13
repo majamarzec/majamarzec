@@ -1,10 +1,11 @@
 ## Welcome to Maja's workspace 🌸💻🙋🏻‍♀️
 
 - 🧠 I'm currently working on DL-assisted Neuroscreening project
-- 👩🏻‍💻 I'm currently trying to get better at DevOps & MLOps
 - 💜 My main research domain is **computational neuroscience**, but I'm also interested in neurobiology, neuropsychology, mathematical modeling of biological systems and statistics
 - 🌟 I want to pursue AI in Neuroscience career 
 - 📫 How to reach me: https://www.linkedin.com/in/maja-marzec2003/
+- 👩🏻‍💻 I'm currently trying to get better at DevOps & MLOps
+- 👩🏻‍💻 I'm currently working through [GitHub Skills](https://github.com/skills)
 
 <!--
 **majamarzec/majamarzec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
